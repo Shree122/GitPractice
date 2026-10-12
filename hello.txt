@@ -1,3 +1,4 @@
 Hello Git 
 Welcome to Git and GitHub 
 Learning git pull 
+Learning git fetch 
